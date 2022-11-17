@@ -1,24 +1,11 @@
-# rouille
+# തുരുമ്പ് (Rust)
 
-![](https://github.com/bnjbvr/rouille/raw/principale/logo.jpeg)
 
-Aren't you _le tired_ from writing Rust programs in English? Do you like saying
-"merde" a lot? Would you like to try something different, in an exotic and
-funny-sounding language? Would you want to bring some French touch to your
-programs?
 
-**rouille** (French for _Rust_) is here to save your day, as it allows you to
-write Rust programs in French, using French keywords, French function names,
-French idioms.
+റസ്റ്റ് പ്രോഗ്രമ്മുകൾ ഇംഗ്ലീഷിൽ എഴുതി മടുത്തോ? നിങ്ങൾക്ക് അത നല്ല മലയാളത്തിൽ എഴുതുവാൻ തോന്നിയിട്ടുണ്ടോ? നിങ്ങളുടെ പ്രോഗ്രമ്മുകളിലേക്ക് കുറച്ച് മലയാളിത്തം കൊണ്ട് വരുന്നതിൽ എന്തു തോന്നുന്നു?
 
-This has been designed to be used as the official programming language to
-develop the future French sovereign operating system. 
+**turump** തുരുമ്പ് ഉപയോഗിച്ച് റസ്റ്റ് പ്രോഗ്രമ്മുകൾ നിങ്ങൾക്ക് മലയാലത്തിൽ എഴുതാം. മലയാളത്തിൽ സാങ്കേതിക അറിവിന്റെ വളർച്ചയ്ക്ക് ഊന്നൽ നൽകുവാനാണ് ഈ എളിയ തുനിവ്.
 
-If you're from the French or any other governement with French as an official 
-language: I will be awaiting your donations on
-[liberapay](https://liberapay.com/bnjbvr/).
-
-You're from Quebec (or elsewhere) and don't feel at ease using only French words? 
 
 Don't worry!
 French Rust is fully compatible with English-Rust, so you can mix both at your
